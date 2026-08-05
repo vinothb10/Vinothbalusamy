@@ -1,6 +1,6 @@
 # Hi, I'm Vinoth Balusamy 👋
 
-PL/SQL Developer & Data Engineer | 6+ Yrs Exp | Banking Tech Expert (Capgemini/Infosys)
+PL/SQL Developer & Data Engineer | 6+ Yrs Exp | Banking Tech Expert (Infosys)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinothb10&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=vinothb10&layout=compact&theme=radical)
